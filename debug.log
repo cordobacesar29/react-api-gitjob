@@ -1,0 +1,6 @@
+[1204/220205.660:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[1208/135255.462:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[1209/203248.037:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[1209/214143.676:ERROR:process_info.cc(359)] UncheckedAllocate
+[1209/214143.679:ERROR:process_info.cc(359)] UncheckedAllocate
+[1210/204838.953:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
